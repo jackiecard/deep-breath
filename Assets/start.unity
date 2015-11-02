@@ -323,7 +323,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: oi
+  m_Text: 'oi oi oi '
 --- !u!222 &1480023789
 CanvasRenderer:
   m_ObjectHideFlags: 0
