@@ -96,7 +96,7 @@ GameObject:
   - 212: {fileID: 44220183}
   - 114: {fileID: 44220185}
   m_Layer: 0
-  m_Name: logo_round
+  m_Name: Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
