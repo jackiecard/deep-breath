@@ -18,8 +18,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/energizing_menu.unity
   - enabled: 1
-    path: Assets/Scenes/Levels/lvlEnergy.unity
+    path: Assets/Scenes/Levels/Samples/lvlEnergy.unity
   - enabled: 1
-    path: Assets/Scenes/Levels/lvlSmoke.unity
+    path: Assets/Scenes/Levels/Samples/lvlSmoke.unity
   - enabled: 1
-    path: Assets/Scenes/Levels/lvlWater.unity
+    path: Assets/Scenes/Levels/Samples/lvlWater.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/oceanLvl.unity
