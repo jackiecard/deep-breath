@@ -24,6 +24,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/Samples/lvlWater.unity
   - enabled: 0
-    path: Assets/Scenes/Levels/oceanLvl.unity
+    path: Assets/Scenes/Levels/Samples/oceanLvl.unity
   - enabled: 1
     path: Assets/Scenes/Levels/ocean_level.unity
