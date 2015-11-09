@@ -95,6 +95,15 @@ GameObject:
   serializedVersion: 4
   m_Component:
 <<<<<<< HEAD:Assets/Scenes/start.unity
+<<<<<<< HEAD
+=======
+  - 4: {fileID: 835203457}
+  - 20: {fileID: 835203456}
+  - 92: {fileID: 835203455}
+  - 124: {fileID: 835203454}
+  - 81: {fileID: 835203453}
+=======
+>>>>>>> origin/master
   - 4: {fileID: 44220184}
   - 212: {fileID: 44220183}
   - 114: {fileID: 44220185}
@@ -207,6 +216,7 @@ GameObject:
   - 92: {fileID: 366928784}
   - 124: {fileID: 366928783}
   - 81: {fileID: 366928782}
+<<<<<<< HEAD
 =======
   - 4: {fileID: 835203457}
   - 20: {fileID: 835203456}
@@ -214,6 +224,9 @@ GameObject:
   - 124: {fileID: 835203454}
   - 81: {fileID: 835203453}
 >>>>>>> master:Assets/Scenes/start.unity
+=======
+>>>>>>> a9a0fb21169bdf65a66ae4d56f1f81eb8d45140e:Assets/Scenes/start.unity
+>>>>>>> origin/master
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -296,6 +309,12 @@ GameObject:
   serializedVersion: 4
   m_Component:
 <<<<<<< HEAD:Assets/Scenes/start.unity
+<<<<<<< HEAD
+=======
+  - 4: {fileID: 1338717766}
+  - 212: {fileID: 1338717765}
+=======
+>>>>>>> origin/master
   - 224: {fileID: 551973100}
   - 223: {fileID: 551973099}
   - 114: {fileID: 551973098}
@@ -390,10 +409,14 @@ GameObject:
   m_Component:
   - 4: {fileID: 952490026}
   - 212: {fileID: 952490025}
+<<<<<<< HEAD
 =======
   - 4: {fileID: 1338717766}
   - 212: {fileID: 1338717765}
 >>>>>>> master:Assets/Scenes/start.unity
+=======
+>>>>>>> a9a0fb21169bdf65a66ae4d56f1f81eb8d45140e:Assets/Scenes/start.unity
+>>>>>>> origin/master
   m_Layer: 0
   m_Name: logo
   m_TagString: Untagged
@@ -435,6 +458,16 @@ Transform:
   m_GameObject: {fileID: 1338717764}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD:Assets/Scenes/start.unity
+<<<<<<< HEAD
+=======
+  m_LocalPosition: {x: .5, y: 31.1000004, z: 0}
+  m_LocalScale: {x: 16.8053837, y: 16.8947792, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+--- !u!1 &1484785157
+=======
+>>>>>>> origin/master
   m_LocalPosition: {x: 3.02131653, y: 1.00709534, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -513,6 +546,7 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1559269023}
 --- !u!1 &1804456440
+<<<<<<< HEAD
 =======
   m_LocalPosition: {x: .5, y: 31.1000004, z: 0}
   m_LocalScale: {x: 16.8053837, y: 16.8947792, z: 1}
@@ -521,6 +555,9 @@ CanvasRenderer:
   m_RootOrder: 1
 --- !u!1 &1484785157
 >>>>>>> master:Assets/Scenes/start.unity
+=======
+>>>>>>> a9a0fb21169bdf65a66ae4d56f1f81eb8d45140e:Assets/Scenes/start.unity
+>>>>>>> origin/master
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
