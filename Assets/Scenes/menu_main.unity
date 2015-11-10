@@ -928,7 +928,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: alternate nostril breating
+  m_Text: alternate nostril
 --- !u!222 &1140285780
 CanvasRenderer:
   m_ObjectHideFlags: 0
