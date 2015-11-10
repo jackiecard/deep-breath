@@ -2,20 +2,30 @@
 
 //var movTexture : MovieTexture;
 
-function Update () {
+function Start () {
+//	if(Input.GetMouseButtonDown(0) || Input.touchCount >= 1) {
+//		Application.LoadLevel("menu_main");
+//	}
+//}
+
+//function Update () {
 	//movTexture.loop = true;
 	//GetComponent.<Renderer>().material.mainTexture = movTexture;
-	CoroutinePlayMovie ();	
-	new WaitForSeconds(12.0f);
-	if(Input.GetMouseButtonDown(0) || Input.touchCount >= 1) {
-		Application.LoadLevel("menu_main");
-	}
 	//movTexture.Play();
+
+	CoroutinePlayMovie ();	
+	if ((Input.touchCount == 1 || Input.GetMouseButtonDown(0)) &&
+          (Input.GetTouch(0).phase == TouchPhase.Began) )
+     {
+     	Application.LoadLevel("menu_main");
+     }
 }
+
 function CoroutinePlayMovie () {
 	Handheld.PlayFullScreenMovie (
-		"fluidAndroid.mp4", 
-		Color.black, 
+		"energizing.mp4", 
+		Color.white, 
+		//FullScreenMovieControlMode.CancelOnInput,
 		FullScreenMovieControlMode.CancelOnInput,
 		FullScreenMovieScalingMode.Fill
 		);
