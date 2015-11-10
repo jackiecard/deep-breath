@@ -192,7 +192,7 @@ RectTransform:
   m_AnchorMin: {x: .5, y: .5}
   m_AnchorMax: {x: .5, y: .5}
   m_AnchoredPosition: {x: 1.52587891e-05, y: -10}
-  m_SizeDelta: {x: 995, y: 1461}
+  m_SizeDelta: {x: 850, y: 1461}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &165712716
 MonoBehaviour:
@@ -225,8 +225,8 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f5c120f39ac2a9d4cbe1ae4eb76798cc, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: 2aac1c3e611ccc14fa5849631ed73294, type: 3}
+    m_FontSize: 55
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -240,7 +240,7 @@ MonoBehaviour:
     left nostril. Do this to the count of four seconds.\r\n\n2. Immediately close
     the left nostril with your right ring finger and little finger, and at the same
     time remove your thumb from the right nostril, and exhale through this nostril.
-    Do this to the count of eight seconds. This completes a half round.\r\n\n3. fInhale
+    Do this to the count of eight seconds. This completes a half round.\r\n\n3. Inhale
     through the right nostril to the count of four seconds. Close the right nostril
     with your right thumb and exhale through the left nostril to the count of eight
     seconds. This completes one full round."

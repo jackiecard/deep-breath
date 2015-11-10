@@ -502,6 +502,7 @@ GameObject:
   - 114: {fileID: 1285445647}
   - 114: {fileID: 1285445646}
   - 114: {fileID: 1285445645}
+  - 114: {fileID: 1285445649}
   m_Layer: 0
   m_Name: SwipeControl JS
   m_TagString: Untagged
@@ -743,6 +744,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 551973100}
   m_RootOrder: 2
+--- !u!114 &1285445649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1285445644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6287a19968c5c24a97da88b00472b3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WorkingXorRatio: 0
+  WorkingYorRatio: 0
+  ChangeX: 0
+  ChangeY: 0
+  ChangeXRotated: 0
+  ChangeYRotated: 0
+  MainCamera: {fileID: 366928786}
 --- !u!1 &1804456440
 GameObject:
   m_ObjectHideFlags: 0
