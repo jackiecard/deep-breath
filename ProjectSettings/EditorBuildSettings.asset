@@ -27,3 +27,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Samples/oceanLvl.unity
   - enabled: 1
     path: Assets/Scenes/Levels/ocean_level.unity
+  - enabled: 1
+    path: Assets/Scenes/Levels/energizing_level.unity
