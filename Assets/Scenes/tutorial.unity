@@ -126,7 +126,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e59764a7b5e58604ebcddd0e28ac66ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e6a97b9e3f26a2f469befcba856117f1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &44220184
 Transform:
@@ -136,7 +136,7 @@ Transform:
   m_GameObject: {fileID: 44220182}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3, y: 151.529999, z: 0}
-  m_LocalScale: {x: 1.12623179, y: 1.12623179, z: 1.12623179}
+  m_LocalScale: {x: 70, y: 70, z: 1.12623179}
   m_Children: []
   m_Father: {fileID: 551973100}
   m_RootOrder: 0
@@ -502,7 +502,6 @@ GameObject:
   - 114: {fileID: 1285445647}
   - 114: {fileID: 1285445646}
   - 114: {fileID: 1285445645}
-  - 114: {fileID: 1285445649}
   m_Layer: 0
   m_Name: SwipeControl JS
   m_TagString: Untagged
@@ -662,16 +661,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: -160
     y: 66
-    width: 260
-    height: 322
+    width: 300
+    height: 371
   centerMatrixOnScreen: 1
-  matrixPosition: {x: 31, y: -127, z: -12.4899998}
+  matrixPosition: {x: 0, y: -127, z: -12.4899998}
   matrixAngle: 0
   expandInputAreaToFullWidth: 1
   dot:
   - {fileID: 2800000, guid: f258d1ff61efc4cf7b87a3906867e4cc, type: 3}
   - {fileID: 2800000, guid: d21319ab2f65946c09280f0f7f94a555, type: 3}
-  dotRelativeCenterPos: {x: 0, y: 90}
+  dotRelativeCenterPos: {x: 0, y: 115}
   debug: 0
   debugBoxStyle:
     m_Name: 
@@ -744,24 +743,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 551973100}
   m_RootOrder: 2
---- !u!114 &1285445649
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1285445644}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6287a19968c5c24a97da88b00472b3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  WorkingXorRatio: 0
-  WorkingYorRatio: 0
-  ChangeX: 0
-  ChangeY: 0
-  ChangeXRotated: 0
-  ChangeYRotated: 0
-  MainCamera: {fileID: 366928786}
 --- !u!1 &1804456440
 GameObject:
   m_ObjectHideFlags: 0

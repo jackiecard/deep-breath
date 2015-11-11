@@ -777,10 +777,13 @@ MonoBehaviour:
     to breathe.
 
 
+    2. Inhale the air by your nose.
+
+
     3. Open your mouth. Exhale through your mouth by pulling your belly in.
 
 
-    2. Sync our breathing with this animation.'
+    4. Sync our breathing with this animation.'
 --- !u!222 &1461302377
 CanvasRenderer:
   m_ObjectHideFlags: 0
