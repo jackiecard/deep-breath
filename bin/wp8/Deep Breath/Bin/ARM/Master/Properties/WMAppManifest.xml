@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{90338CE4-9F15-43C7-BC2B-9897B01AD641}" Title="Deep Breath" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="DPFJC" Description="Deep Breath helps you to perform meditation breathing techniques for relaxation and stress relief purposes." Publisher="DPFJC" PublisherID="{36e0404a-2921-4b73-8632-3bf364496337}">
+  <App xmlns="" ProductID="{90338CE4-9F15-43C7-BC2B-9897B01AD641}" Title="Deep Breath" RuntimeType="Silverlight" Version="1.1.0.0" Genre="apps.normal" Author="DPFJC" Description="Deep Breath helps you to perform meditation breathing techniques for relaxation and stress relief purposes." Publisher="DPFJC" PublisherID="{36e0404a-2921-4b73-8632-3bf364496337}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_IDENTITY_DEVICE" />
